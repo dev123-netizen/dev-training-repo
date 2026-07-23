@@ -1,4 +1,4 @@
 # DevPractice
 
-Developer github training
+Developer github training!
 
